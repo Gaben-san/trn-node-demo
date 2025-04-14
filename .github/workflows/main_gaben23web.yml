@@ -61,4 +61,4 @@ jobs:
           app-name: 'gaben23web'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E929258D4334413B45B4A9C1387D956 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CA23826B189451F9EB8F104A22F57A3 }}
